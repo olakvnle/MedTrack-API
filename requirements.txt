@@ -3,6 +3,7 @@ djangorestframework==3.13.1
 python-dotenv==0.19.1
 django-cors-headers==3.7.0
 djoser==2.1.0
+pillowl==10.3.0
 # setuptools>=57.4.0
 # six==1.16.0
 
@@ -50,5 +51,6 @@ djoser==2.1.0
     # testserver
 # py -3 manage.py migrate    
 # py -3 manage.py runserver
+# python manage.py runserver
 # py -3 manage.py createsuperuser
 # py -3 manage.py makemigrations
